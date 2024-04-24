@@ -4,7 +4,8 @@
 ##  Introducción.
 En el presente proyecto se toma el rol de un Analista de Datos, contratado por la Secretaria de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). Se nos ha encomendado desarrollar un proyecto para analizar datos con el propósito de proporcionar información que ayude a las autoridades locales a tomar medidas que reduzcan las muertes por accidentes de tráfico en CABA. Para ello, se dispone de un conjunto de datos sobre homicidios en accidentes de tráfico ocurridos en Buenos Aires entre 2016 y 2021. Se espera la entrega de un informe detallado sobre las actividades realizadas, las metodologías empleadas y las conclusiones principales, además de la presentación de un panel interactivo que facilite la interpretación y el análisis de la información.
 
- ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/e3a3c90c-c484-41d0-862a-5b56be1ae13f)
+ ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/07b37645-437d-4091-b84d-3eddc58277eb)
+
 
 ##  Contexto.
 Para poder avanzar en el proyecto tenemos que comprender la naturaleza del fenómeno que estamos por analizar y así mismo el lugar geográfico para obtener un análisis más detallado y preciso. Los **accidentes de trafico** son aquellos eventos en donde se involucran diferentes tipos de vehículos, como lo son autos, motocicletas, vehículos de carga, de pasajeros, entre otros. Al igual cabe aclarar que las colisiones pueden ser contra otros vehículos, peatones, objetos fijos, etc. Estos accidentes pueden dar como resultado perdidas materiales, lesiones y en los peores casos, la perdida de una vida.
