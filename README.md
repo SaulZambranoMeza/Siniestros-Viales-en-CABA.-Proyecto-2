@@ -56,13 +56,14 @@ Sugerencia: Teniendo esto en cuenta podemos recomendar que aquellas personas que
 ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/ebc90f70-bd39-4e15-8917-c71376c8935e)
 
 Teniendo en cuenta la información anterior, podemos comenzar con el análisis de los KPI y corroborar si pudimos alcanzar las metas en cada uno de ellos.
-**1.Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.**
+
+### 1.Reducir en un 10% la tasa de homicidios en siniestros viales de los últimos seis meses, en CABA, en comparación con la tasa de homicidios en siniestros viales del semestre anterior.
 
 Definimos a la tasa de homicidios en siniestros viales como el número de víctimas fatales en accidentes de tránsito por cada 100,000 habitantes en un área geográfica durante un período de tiempo específico. Su fórmula es: (Número de homicidios en siniestros viales / Población total) * 100,000.
 
 Analizando la información obtenida el primer KPI en el cual se busca reducir la tasa de homicidios en siniestros viales en los últimos 6 meses comparados con el mismo semestre del año anterior, podemos concluir que este KPI se consiguió realizar de manera exitosa debido a que en los últimos 6 meses la tasa de homicidios fue de 1.345% comparada con la tasa del semestre anterior, la cual fue de 1.7619, con estos datos podemos calcular que hubo una reducción en la tasa de homicidios de un -23.64%.
 
-**2.Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.**
+### 2.Reducir en un 7% la cantidad de accidentes mortales de motociclistas en el último año, en CABA, respecto al año anterior.
 
 Definimos a la cantidad de accidentes mortales de motociclistas en siniestros viales como el número absoluto de accidentes fatales en los que estuvieron involucradas víctimas que viajaban en moto en un determinado periodo temporal. Su fórmula para medir la evolución de los accidentes mortales con víctimas en moto es: (Número de accidentes mortales con víctimas en moto en el año actual - Número de accidentes mortales con víctimas en moto en el año anterior) / (Número de accidentes mortales con víctimas en moto en el año anterior) * 100
 
@@ -70,7 +71,7 @@ Con los datos obtenidos podemos evaluar el cumplimiento o no de nuestro KPI, en 
 
 Recomendaciones: Como recomendaciones para poder alcanzar este KPI, sugerimos el que sea obligatorio el uso de equipo de seguridad en todas aquellas personas que manejan motocicletas como lo son los cascos, chamarras de protección entre otras, así como capsulas de conciencia vial a todas las personas que vayan a tramitar sus próximas licencias para conducir, sin importar el tipo de vehículo que manejen.
 
-**3. Reducir en un 5% las muertes en las personas con un rango etario de 21 a 30 años en los últimos dos años.**
+### 3. Reducir en un 5% las muertes en las personas con un rango etario de 21 a 30 años en los últimos dos años.
 
 En este tercer KPI lo que buscábamos era poder tener una reducción del 5% entre las personas que tuvieran entre 21 y 30 años comparando el 2021 con el 2020, lamentablemente no conseguimos esa disminución del 5%, al contrario. Hubo un aumento del 35.29%
 Recomendaciones: Requerir pruebas más exhaustivas al momento que las personas en esta edad tramiten su licencia de conducir, además de campañas con charlas de conciencia vial y requerir equipos de seguridad y seguros para sus vehículos. 
