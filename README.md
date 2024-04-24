@@ -1,23 +1,23 @@
-# A EDA
+# EDA
 
 
-## A Introducción.
+##  Introducción.
 En el presente proyecto se toma el rol de un Analista de Datos, contratado por la Secretaria de Transporte del Gobierno de la Ciudad Autónoma de Buenos Aires (CABA). Se nos ha encomendado desarrollar un proyecto para analizar datos con el propósito de proporcionar información que ayude a las autoridades locales a tomar medidas que reduzcan las muertes por accidentes de tráfico en CABA. Para ello, se dispone de un conjunto de datos sobre homicidios en accidentes de tráfico ocurridos en Buenos Aires entre 2016 y 2021. Se espera la entrega de un informe detallado sobre las actividades realizadas, las metodologías empleadas y las conclusiones principales, además de la presentación de un panel interactivo que facilite la interpretación y el análisis de la información.
 
  ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/e3a3c90c-c484-41d0-862a-5b56be1ae13f)
 
-## A Contexto.
+##  Contexto.
 Para poder avanzar en el proyecto tenemos que comprender la naturaleza del fenómeno que estamos por analizar y así mismo el lugar geográfico para obtener un análisis más detallado y preciso. Los **accidentes de trafico** son aquellos eventos en donde se involucran diferentes tipos de vehículos, como lo son autos, motocicletas, vehículos de carga, de pasajeros, entre otros. Al igual cabe aclarar que las colisiones pueden ser contra otros vehículos, peatones, objetos fijos, etc. Estos accidentes pueden dar como resultado perdidas materiales, lesiones y en los peores casos, la perdida de una vida.
 Estos accidentes viales y su incremento son una gran preocupación para la secretaria de Transporte del Gobierno de la **Ciudad Autónoma de Buenos Aires (CABA)**, debido a que todos estos incidentes tienen una repercusión en la población de CABA y en su calidad de vida.
 Con esto en cuenta podemos ver la importancia y la urgencia de realizar este análisis para poder reducir el numero de accidentes viales y a su vez, la perdida de vidas en dichos accidentes.
 
-## A Datos.
+##  Datos.
 Los datos con los que trabajaremos en este proyecto provienen de dos bases de datos explicadas a continuación.
 **Base de datos de Hechos:** Encontramos toda la información relacionada al lugar del accidente, fecha del accidente, las partes involucradas (víctima y acusado), así como el ID para cada incidente, este será una de las columnas más importantes debido a que es un identificador único que nos permite identificar cada accidente sin ningún tipo de confusión.
 
 **Base de datos de víctimas:** Aquí encontraremos referenciado el ID de los hechos el cual también nos servirá como identificador único que cada accidente, aunado a esto también encontramos información relevante como es la edad, sexo, vehículo de la víctima, entre otros elementos que nos ayudarán al análisis.
 
-## A Tecnologías utilizadas.
+##  Tecnologías utilizadas.
  ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/81b448ad-dab5-4718-9795-a04a7796c019)
 
 Para realizar este proyecto podemos dividir el uso de tecnologías en dos etapas que explicaremos a continuación.
@@ -28,7 +28,7 @@ En este apartado realizamos la extracción de los datos, así como verificar la 
 Recurrimos al uso de graficas para analizar métricas específicas, las cuales nos podrían arrojar datos interesantes que podríamos tomar en cuenta para análisis futuros. Al igual se realizó la corroboración de los 3 kPIs.
 
 
-## A análisis.
+##  análisis.
 
  ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/09a6afb7-fdf2-4728-b1cc-c2ea9ba31fbb)
 
@@ -42,7 +42,7 @@ Sugerencia: Teniendo esto en cuenta podemos recomendar que aquellas personas que
 5.Otra métrica relevante que analizamos fue el rango de edad con más frecuencia de incidencia en accidentes viales, en está métrica en particular pudimos observar que las personas que se encuentran entre 21 y 30 años son las que más incidentes de tránsito.
 **Sugerencia:** Requerir pruebas más exhaustivas al momento que las personas en esta edad tramiten su licencia de conducir, además de campañas con charlas de conciencia vial y requerir equipos de seguridad y seguros para sus vehículos. 
 
-## A KPI
+##  KPI
 
 ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/ebc90f70-bd39-4e15-8917-c71376c8935e)
 
@@ -59,7 +59,7 @@ En este tercer KPI lo que buscábamos era poder tener una reducción del 5% entr
 Recomendaciones: Requerir pruebas más exhaustivas al momento que las personas en esta edad tramiten su licencia de conducir, además de campañas con charlas de conciencia vial y requerir equipos de seguridad y seguros para sus vehículos. 
 
 
-## A Conclusiones.
+##  Conclusiones.
 
  ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/2dcf3219-860c-45f4-958b-390daae8b70e)
 
