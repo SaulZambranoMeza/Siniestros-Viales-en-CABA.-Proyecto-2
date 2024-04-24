@@ -26,8 +26,10 @@ Para realizar este proyecto podemos dividir el uso de tecnologías en dos etapas
 **Etapa 1:** En esta etapa nos enfocamos en la extracción de los datos, su conversión en dataframes, la verificación en la calidad de los mismo y en un análisis exploratorio mediante graficas y poder tener métricas para realizar observaciones. Para esta etapa usamos Python con las siguientes librerías: Pandas, seaborn y matplotlib.
 
 **Etapa 2:** La segunda etapa consistía en poder visualizar los KPIs así como datos relevantes para poder analizar y verificar si se cumplieron los objetivos planteado en este proyecto. Para esta etapa usamos Power bi.
-EDA.
+
+## EDA.
 En este apartado realizamos la extracción de los datos, así como verificar la integridad de estos, buscamos valores faltantes, valores duplicados y valores nulos. Así mismo se hizo el análisis de outliers para verificar si esos datos eran solo valores atípicos o realmente eran errores, cabe señalar esto se realizó en ambos dataframes.
+
 Recurrimos al uso de graficas para analizar métricas específicas, las cuales nos podrían arrojar datos interesantes que podríamos tomar en cuenta para análisis futuros. Al igual se realizó la corroboración de los 3 kPIs.
 
 
@@ -79,10 +81,17 @@ Recomendaciones: Requerir pruebas más exhaustivas al momento que las personas e
  ![image](https://github.com/SaulZambranoMeza/Siniestros-Viales-en-CABA.-Proyecto-2/assets/99093279/2dcf3219-860c-45f4-958b-390daae8b70e)
 
 En la Ciudad Autónoma de Buenos Aires (CABA) de 2016 a 2021se han registrado un total de 717 victimas fatales en accidentes de tráfico. De los cuales los cuales el 2018 fue el año con más muertes teniendo el 20.8%, seguido del año 2016 con 20.4% del total de las muertes.
+
 En estos años el mes con mayor incidencia fue el mes de diciembre, tomando en cuenta las celebraciones de fin de año, podríamos sugerir que esa es la causa. Como principales vehículos que causan accidentes, tenemos que el 28% son autos y un 24% son pasajeros (transporte publico).
+
 Así mismo las personas que están más involucradas en accidentes viales son aquellas que están en el rango de edad de 21 a 30 años y por último la comuna en donde suceden más accidentes, es la comuna 1 llegando a casi 90 casos.
+
 **Recomendaciones.**
+
 Uso obligatorio de equipo seguridad para las personas que manejen motocicletas.
+
 Campañas de conciencia vial en el transporte público.
+
 Exámenes más exhaustivos y charlas de conciencia vial a las personas que tramitan su licencia de conducir entre las edades de 21 a 30 años.
+
 Campañas de concientización sobre el respeto al peatón.
